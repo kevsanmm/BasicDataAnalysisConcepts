@@ -1,0 +1,21 @@
+# requirements.txt
+
+# Conexión a Redshift
+psycopg2
+
+# Manejo de datos
+pandas
+numpy
+
+# API de Pytrends
+pytrends
+
+# Análisis de datos
+statsmodels
+
+# Visualización
+matplotlib
+seaborn
+
+# Configuración del entorno
+python-dotenv
